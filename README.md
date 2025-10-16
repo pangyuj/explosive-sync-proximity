@@ -33,7 +33,7 @@ This repository contains MATLAB code for simulating Stuart-Landau oscillator net
 
 ## Data
 
-Network connectivity matrices (MAT) and distance matrices (Dmat) are not included due to third-party data restrictions. Synthetic networks with similar statistical properties can be generated for testing purposes.
+Network connectivity matrices (MAT) and distance matrices (Dmat) are not included due to third-party data restrictions. Synthetic networks with similar statistical properties is generated (gong78.mat) for testing purposes.
 
 ## Citation
 
