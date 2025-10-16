@@ -13,7 +13,8 @@ This repository contains MATLAB code for simulating Stuart-Landau oscillator net
 ## Requirements
 
 - MATLAB R2018b or later
-- No additional toolboxes required
+- Signal Processing Toolbox
+- Statistics and Machine Learning Toolbox
 
 ## Main Scripts
 
