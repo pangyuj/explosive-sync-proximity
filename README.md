@@ -4,8 +4,6 @@ Code repository for the computational modeling analyses presented in:
 
 **Lee, U.C., Kim, H., Kim, M., Oh, G., Park, A., Joo, P., Pal, D., Tracey, I., Warnaby, C.E., Sleigh, J., & Mashour, G.A.** (2024). Proximity to Explosive Synchronization Determines Network Collapse and Recovery Trajectories in Neural and Economic Crises. *bioRxiv*. https://doi.org/10.1101/2024.11.28.625924
 
-Preprint available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC11642761/
-
 ## Description
 
 This repository contains MATLAB code for simulating Stuart-Landau oscillator networks to investigate how proximity to explosive synchronization (ES) affects critical state transitions during perturbations.
