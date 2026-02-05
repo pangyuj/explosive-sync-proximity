@@ -31,4 +31,4 @@ This repository provides the MATLAB scripts to reproduce the main findings of ou
 
 ## Contact
 
-For questions about the code, please contact Pangyu Joo at pangyuj@med.umich.edu.
+For questions about the code, please contact Pangyu Joo at pangyuj@umich.edu.
